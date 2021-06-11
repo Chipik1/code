@@ -1,0 +1,50 @@
+#Top {
+  display: flex;
+  justify-content: space-between;
+}
+header{
+  width: 980px;
+}
+
+.image-logo {
+  padding-top: 24px;
+  padding-left: 70px;
+
+}
+
+.image-contact {
+  height:108px;
+  width:279px;
+  padding-top: 24px;
+  padding-left: 23px;
+}
+
+.more {
+  height:108px;
+  width:513px;
+  padding-top: 24px;
+  padding-left: 24px;
+}
+
+
+#Center{
+  display: flex;
+  justify-content: space-between;
+}
+
+.left-menu{
+  display: flex;
+  justify-content: space-between;
+  padding-top: 42px;
+  padding-left: 70px;
+}
+
+.text{
+  display: flex;
+  justify-content: space-between;
+  padding-left: 20px;
+}
+
+
+
+
