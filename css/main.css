@@ -31,10 +31,12 @@ body {
   background-color: #777777;
 }
 
-#Content {
+#left-menu {
   display: flex;
   justify-content: flex-start;
-  box-sizing:content-box;
+  max-width: 270px;
+  flex-direction:column;
+  
 }
 
 .left {
@@ -45,6 +47,20 @@ body {
   background-color: #777777;
 }
 
+.green {
+  width: 184px;
+  height: 134px;
+  margin-top: 304px;
+  margin-left: 70px;
+  background-color: #777777;
+}
+
+#center {
+  display: flex;
+  justify-content: space-between;
+  align-content:center;
+}
+
 .text {
   width: 757px;
   height: 210px;
@@ -53,9 +69,6 @@ body {
   background-color: #dcdcdc;
 }
 
-.text2 {
- 
-}
 
 
 
